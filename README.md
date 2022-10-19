@@ -31,21 +31,18 @@ Using Python users can download any files from the internet via its link and als
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://img.icons8.com/color/344/flutter.png" width="40" height="40">
+<p align='left'><img src="https://img.icons8.com/color/344/flutter.png" width="40" height="40">
 <img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" width="40" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="40" height="40">
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" width="40" height="40">
 <img src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" width="40" height="50">
 <img src="https://nextsoftware.io/files/images/logos/main/reactjs-logo.png" width="40" height="40">
-<img src="https://assets.stickpng.com/images/5847f40ecef1014c0b5e488a.png" width="40" height="40">
+<img src="https://cdn.freebiesupply.com/logos/large/2x/firebase-1-logo-png-transparent.png" width="40" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" width="40" height="40">
 <img src="https://www.logo.wine/a/logo/Linux/Linux-Logo.wine.svg" width="40" height="40">
 <img src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" width="40" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" width="40" height="40">
 <img src="https://cdn-icons-png.flaticon.com/512/6119/6119533.png" width="40" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3b/Raspberry_Pi_logo.svg/1200px-Raspberry_Pi_logo.svg.png" width="40" height="40">
-<img src="https://www.9and9.com/image/webrtc.png" width="40" height="40">
-
-
-
+<img src="https://www.9and9.com/image/webrtc.png" width="40" height="40"></p>
 
