@@ -9,9 +9,9 @@ Welcome to my GitHub! I'm a passionate software engineer with 5+ years of experi
 ## 🔧 Tech Stack & Skills
 
 - **Languages:** Dart, JavaScript, PHP, Python, C++
-- **Mobile Frameworks:** Flutter, Firebase, Appwrite
+- **Mobile Frameworks:** Flutter
 - **State Management:** Bloc, Riverpod, GetX, Provider
-- **Architecture:** MVVM, MVC, Clean Architecture, SOLID Principles
+- **Architecture:** MVVM, MVC, Clean Architecture
 - **Backend & Web:** Laravel, Flask, ReactJS, Bootstrap
 - **Tools & Platforms:** Git, Postman, GitHub, Firebase, Appwrite, Bluetooth Printing, QR/Barcode, Deep Linking
 - **Databases:** SQFlite, Firebase Firestore, Appwrite DB
@@ -24,14 +24,6 @@ Welcome to my GitHub! I'm a passionate software engineer with 5+ years of experi
 - **Mobile Team Lead @ lookfindr** – Scalable product architecture & team mentoring  
 - **Instructor @ PeaLearning** – Mentoring mobile devs in Flutter & Dart  
 - **Project Manager @ Peacode & Du V Du** – Managing full lifecycle product delivery  
-
----
-
-## 📚 Education
-
-**B.Sc. in Information Technology & Computer Science**  
-*Sinai University – Class of 2023*  
-Grade: A- (Excellent)
 
 ---
 
